@@ -1,3 +1,9 @@
-# Welcome to my blog
+# The Twelve Chains Development Journey
 
-I'm glad you are here. I plan to talk about ...
+Data
+
+Statistics and Math
+
+Machine Learning
+
+Languages
